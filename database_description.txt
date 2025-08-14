@@ -1,0 +1,1 @@
+OLTP database schema for an e-commerce platform designed to manage users, products, orders, payments, shipping, and reviews. Fully normalized for data integrity and optimized for real-time transactional operations.
