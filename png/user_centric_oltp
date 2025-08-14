@@ -1,5 +1,0 @@
-This database is an OLTP (Online Transaction Processing) system, designed for day-to-day e-commerce operations.
-It handles real-time transactions such as user registration, product listing, order placement, payment processing, and shipment tracking.
-The schema is normalized to reduce redundancy, maintain data integrity, and support fast inserts/updates for operational workflows.
-
-If you want, I can prepare a short header comment inside your SQL file so anyone opening it instantly knows its purpose and type.
